@@ -27,4 +27,4 @@ Enable in XIPivot:
 
 | Chamber | Hallway |
 |:---:|:---:|
-| ![Tronmenos Chamber](docs/screenshots/tronmenos_chamber.jpg) | ![Tronmenos Hallway](docs/screenshots/tronmenos_hallway.jpg) |
+| ![Tronmenos Chamber](.github/screenshots/tronmenos_chamber.jpg) | ![Tronmenos Hallway](.github/screenshots/tronmenos_hallway.jpg) |
