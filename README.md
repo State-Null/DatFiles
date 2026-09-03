@@ -28,3 +28,6 @@ Enable in XIPivot:
 | Chamber | Hallway |
 |:---:|:---:|
 | ![Tronmenos Chamber](.github/screenshots/tronmenos_chamber.jpg) | ![Tronmenos Hallway](.github/screenshots/tronmenos_hallway.jpg) |
+
+## 📚 Technical Documentation
+* [FFXI DAT Engineering Technical Knowledge Dump](docs/DAT_KNOWLEDGE_DUMP.md): Raw binary offsets, bitmasks, shader equations, and DXT1 algorithms.
