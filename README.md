@@ -35,9 +35,9 @@ Enable in XIPivot via in-game Windower console:
   - **D3D8 Calibrated Shading**: Specular highlights compressed for Vana'diel sunlight; collar line contoured to Elvaan Male Face 10 hair seam.
   - **Hardware Compliant**: Strict $\le 2$ bone weights per vertex.
 
-| Front Stance | Kneeling Flex (`/heal`) | Waist & Belt Interface |
+| In-Game Front Stance | In-Game Back (Turtle / Kai Emblem) | In-Game Kneeling Flex (`/heal`) |
 |:---:|:---:|:---:|
-| ![Goku Front Stance](.github/screenshots/gokutracksuit_front.jpg) | ![Goku Kneeling Flex](.github/screenshots/gokutracksuit_kneel.jpg) | ![Goku Waist Interface](.github/screenshots/gokutracksuit_waist.jpg) |
+| ![Goku Front Stance](.github/screenshots/gokutracksuit_front.png) | ![Goku Back Emblem](.github/screenshots/gokutracksuit_back.png) | ![Goku Kneeling Flex](.github/screenshots/gokutracksuit_kneel.png) |
 
 ---
 
