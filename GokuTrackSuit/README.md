@@ -1,5 +1,9 @@
 # GokuTrackSuit (Track Shirt & Track Pants - Elvaan Male)
 
+<p align="center">
+  <img src="https://github.com/State-Null/DatFiles/raw/main/.github/screenshots/gokutracksuit_hero.png" alt="Son Goku Gi Mod for Elvaan Male" width="480" />
+</p>
+
 Complete Son Goku Gi costume override for Elvaan Male in Final Fantasy XI. Replaces the **Track Shirt** and **Track Pants** lockstyle items.
 
 | In-Game Front Stance | In-Game Back (Turtle / Kai Emblem) | In-Game Kneeling Flex (`/heal`) |

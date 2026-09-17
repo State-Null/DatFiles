@@ -27,6 +27,11 @@ Enable in XIPivot via in-game Windower console:
 ## Packs
 
 ### GokuTrackSuit (Track Shirt & Track Pants - Elvaan Male)
+
+<p align="center">
+  <img src="https://github.com/State-Null/DatFiles/raw/main/.github/screenshots/gokutracksuit_hero.png" alt="Son Goku Gi Mod for Elvaan Male" width="480" />
+</p>
+
 * **Target**: `ROM/339/25.DAT` (Body 579), `ROM/339/26.DAT` (Legs 579)
 * **In-Game Lockstyle**: **Track Shirt** (`#25713`) & **Track Pants** (`#27325`)
 * **Changes**: Complete Son Goku Gi costume replacement for Elvaan Male.
