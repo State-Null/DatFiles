@@ -1,12 +1,12 @@
 # Blender 5.2.1 LTS MTL File: 'None'
 # www.blender.org
 
-newmtl tim_____gal_cockpit
-Ns 360.000000
-Ka 0.150000 0.150000 0.150000
+newmtl tim_gal_cockpit
+Ns 202.500000
+Ka 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
-illum 3
-map_Kd scratch/tim_gal_cockpit_atlas_authentic.png
+illum 2
+map_Kd scratch/tim_gal_cockpit_atlas_with_hands.png
