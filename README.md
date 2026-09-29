@@ -10,16 +10,21 @@ Drop any pack folder into your XIPivot directory:
 Windower4/addons/XIPivot/data/DATs/
 ├── Tronmenos/
 │   └── ROM3/3/82.DAT
-└── GokuTrackSuit/
-    └── ROM/339/
-        ├── 25.DAT
-        └── 26.DAT
+├── GokuTrackSuit/
+│   └── ROM/339/
+│       ├── 25.DAT
+│       └── 26.DAT
+└── GalkaMechExperiment/
+    └── ROM/
+        ├── 363/58.DAT
+        └── 372/58.DAT
 ```
 
 Enable in XIPivot via in-game Windower console:
 ```text
 //pivot add Tronmenos
 //pivot add GokuTrackSuit
+//pivot add GalkaMechExperiment
 ```
 
 ---
@@ -43,6 +48,26 @@ Enable in XIPivot via in-game Windower console:
 | In-Game Front Stance | In-Game Back (Turtle / Kai Emblem) | In-Game Kneeling Flex (`/heal`) |
 |:---:|:---:|:---:|
 | ![Goku Front Stance](https://github.com/State-Null/DatFiles/raw/main/.github/screenshots/gokutracksuit_front.png) | ![Goku Back Emblem](https://github.com/State-Null/DatFiles/raw/main/.github/screenshots/gokutracksuit_back.png) | ![Goku Kneeling Flex](https://github.com/State-Null/DatFiles/raw/main/.github/screenshots/gokutracksuit_kneel.png) |
+
+---
+
+### GalkaMechExperiment (Tarutaru Pilot Cockpit Mod - Galka)
+
+<p align="center">
+  <img src="https://github.com/State-Null/DatFiles/raw/main/.github/screenshots/galkamech_hero.png" alt="Galka Mech Suit with Tarutaru Pilot Cockpit" width="480" />
+</p>
+
+* **Target**: `ROM/363/58.DAT` (Mithkabob Shirt `#26545` / Body 590), `ROM/372/58.DAT` (Moogle Shirt `#26546` / Body 591)
+* **In-Game Lockstyle**: **Mithkabob Shirt** (`#26545`) & **Moogle Shirt** (`#26546`)
+* **Changes**: Turns the Galka into a piloted mecha suit! A custom brass-bezel cockpit is cut directly into the Galka's chest cavity, revealing an authentic retail Tarutaru pilot steering the giant with twin flight control levers.
+  * **Authentic Retail Geometry**: Features retail Tarutaru head (`ROM/46/98.DAT`), customized with rich anime blue hair and caramel skin, retail **Stars Cap** (`ROM/156/91.DAT`), and retail **Mithkabob Shirt** (`ROM/363/55.DAT`).
+  * **Cockpit Interior**: Heavy riveted brass porthole bezel with 8 3D hex bolts, vintage analog dial gauge, warm navigation lantern, and twin flight control sticks.
+  * **Modular Cockpit System**: Includes standalone 3D models (`.glb`, `.obj`, `.mtl`), texture atlas, and automated Blender script (`attach_cockpit_to_galka_body.py`) to mount the cockpit onto **any** custom Galka armor or body DAT.
+  * **Hardware Skinning Compliance**: Strict Direct3D 8 $\le 2$ bone weights per vertex (`bone0038: 0.85` chest, `bone0037: 0.15` spine), 100% normalized totals.
+
+| Galka Mech Stance | Cockpit & Pilot Close-Up | Standalone Modular Cockpit |
+|:---:|:---:|:---:|
+| ![Galka Mech Hero](https://github.com/State-Null/DatFiles/raw/main/.github/screenshots/galkamech_hero.png) | ![Cockpit Close](https://github.com/State-Null/DatFiles/raw/main/.github/screenshots/galkamech_pilot.png) | ![Cockpit Module](https://github.com/State-Null/DatFiles/raw/main/.github/screenshots/galkamech_module.png) |
 
 ---
 
